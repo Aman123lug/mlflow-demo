@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python_prog/mlruns/0/f8d990a8b738457697de31f5d1798c3b/artifacts
+end_time: 1687939608434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8d990a8b738457697de31f5d1798c3b
+run_name: fortunate-cow-88
+run_uuid: f8d990a8b738457697de31f5d1798c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687939601324
+status: 3
+tags: []
+user_id: ak064

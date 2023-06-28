@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python_prog/mlruns/0/26e825185872447ca1cef7b649e8a30e/artifacts
+end_time: 1687939231511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26e825185872447ca1cef7b649e8a30e
+run_name: merciful-shrimp-600
+run_uuid: 26e825185872447ca1cef7b649e8a30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687939223989
+status: 3
+tags: []
+user_id: ak064

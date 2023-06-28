@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python_prog/mlruns/0/caed5efbd41d47f7a72803947a971b97/artifacts
+end_time: 1687939812793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caed5efbd41d47f7a72803947a971b97
+run_name: dashing-perch-404
+run_uuid: caed5efbd41d47f7a72803947a971b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687939805333
+status: 3
+tags: []
+user_id: ak064
